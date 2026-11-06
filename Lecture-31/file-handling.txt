@@ -1,0 +1,6 @@
+.in -> input file 
+.out -> output file 
+How to read a file 
+.in , .out this mostly contains text so whenever we read the data we get the data 
+in string format we need to format it into the data we want 
+How to write data to a file 
